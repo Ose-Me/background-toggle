@@ -146,7 +146,8 @@ select {
   border: 1px solid rgba(200, 236, 247, 0.5);
   margin-left: 0.5rem;
 }
-
+@media only screen and (max-width: 1024px) {
+}
 @media only screen and (max-width: 768px) {
   #main-container {
     min-height: 100vh;
