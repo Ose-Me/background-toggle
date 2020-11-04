@@ -139,7 +139,7 @@ body {
 }
 
 select {
-  background-color: #0392bf;
+  background-color: transparent;
   padding: 0.4rem 3.7rem;
   color: #c8ecf7;
   border: none;
